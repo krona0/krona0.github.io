@@ -1,57 +1,10 @@
-Hey，是黄玄（a.k.a. Hux, _@huxpro_），一个略懂计算机科学与艺术的斜杆不动青年，自诩是一个[广院](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BC%A0%E5%AA%92%E5%A4%A7%E5%AD%A6)数字媒体艺术系与 RIT 计算机科学系（师从 [Prof. Matthew Fluet](https://www.cs.rit.edu/~mtf/) 专攻编程语言）杂交出来的[黑客与画家](https://book.douban.com/subject/6021440/)。
-
-现为 <del>Facebook</del> Meta 签约软件工程师，就职于开源技术<del>网红</del>团队 [React](https://beta.reactjs.org/community/meet-the-team#react-core)，曾参与 [Hermes JavaScript 引擎](https://hermesengine.dev/)，[ReasonML](https://reasonml.github.io/) (现 [ReScript](https://rescript-lang.org/))，以及 [Reality Labs](https://tech.fb.com/ar-vr/) 某保密项目等。在国内期间，曾被招募为阿里巴巴 · [阿里旅行（飞猪）](http://alitrip.com)· 前端工程师、微影时代 · 微票儿 · 前端基础设施工程团队负责人、[饿了么](https://ele.me/) · 大前端团队 · [PWA 顾问](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509) 等。
-
-
-目前的物理活动范围主要在美帝纽约与硅谷，也想当个数字游<del>民</del>侠。虚拟分身日常出没于[微博](https://weibo.com/huxpro)、[知乎](https://www.zhihu.com/people/huxpro/pins/posts)、[B站](https://space.bilibili.com/43271611)、[Instagram](https://www.instagram.com/huxpro/)、[推特](https://twitter.com/Huxpro/)、[Github](https://github.com/huxpro) 等。
-
-
-##### 技术演讲
-
-- [React 国情咨文 2022][13] · 第七届中国开源年会 · 2023
-- [React Labs: What We've Been Working On – June 2022][12] · React Blog
-- [React Without Memo][11] · [React Conf 2021](https://conf.reactjs.org/)
-- [Toward Hermes being the Default][11] · React Native Blog · 2021
-- React Native 0.64 with Hermes for iOS · [The RN Show Podcast Ep #5](https://www.callstack.com/podcast-react-native-show) · 2021
-- [Upgrading to Progressive Web Apps][9] · [Youtube](https://www.youtube.com/watch?v=RWzMF-1fjJ8&t=1s) · [JSConf CN 上海 2017](http://2017.jsconf.cn/)
-- Building Progressive Web Apps · [CSDI 广州 2017](http://www.csdisummit.com/)
-- The State of Progressive Web App · GDG IO Redux 北京 2017
-- 炒冷饭 · PWA 到底是个什么玩意？· Baidu HQ 北京 2017
-- [Service Worker 101][5] · GDG DevFest 北京 2016
-- [Progressive Web App，复兴序章][4] · [QCon 上海 2016](http://2016.qconshanghai.com/presentation/3111)
-- Progressive Web App 之我见 · GDG IO Redux 北京 2016
-- [CSS Still Sucks 2015][2] · 2015
-- [JavaScript 模块化七日谈][1] · 2015
-
-
-##### 媒体关注
-
-- [Hux 黄玄：从全局视角看 React 生态][14] · 直播 · 图灵 8 点半 · 2023
-- [2022 中国开源先锋 33 人][18] · SegmentFault · 2023
-- [React 黄玄：不懂艺术的 B-Boy 不是 Swag 的程序员][16] · Gitee 封面人物 · 2022
-- [在硅谷当程序员是怎样的体验？][17] · 知乎[《我所向往的职业啊》](https://movie.douban.com/subject/36015036/) · 2022
-
-<!--
-- [掘金 AMA：我是前端娱乐圈的老人 & Facebook 实习生 -- 黄玄][19] · 2018
--->
-
-
-[1]: //huangxuan.me/2015/07/09/js-module-7day/
-[2]: //huangxuan.me/2015/12/28/css-sucks-2015/
-[3]: //huangxuan.me/2016/06/05/pwa-in-my-pov/
-[4]: //huangxuan.me/2016/10/20/pwa-qcon2016/
-[5]: //huangxuan.me/2016/11/20/sw-101-gdgdf/
-[6]: https://yanshuo.io/assets/player/?deck=58ac8598b123db0067292f92 "PWA Rehashing"
-[7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
-[8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
-[9]: //huangxuan.me/jsconfcn2017/
-[10]: https://reactnative.dev/blog/2021/10/26/toward-hermes-being-the-default
-[11]: https://youtu.be/lGEMwh32soc
-[12]: https://reactjs.org/blog/2022/06/15/react-labs-what-we-have-been-working-on-june-2022.html
-[13]: https://www.bilibili.com/video/BV1LY411Q7hC/?spm_id_from=333.999.0.0
-[14]: https://appycyfaqcq1951.pc.xiaoe-tech.com/p/t_pc/course_pc_detail/video/v_64477dbfe4b0cf39e6c11d2a
-[15]: https://segmentfault.com/a/1190000043208486
-[16]: https://gitee.com/gitee-stars/30
-[17]: https://www.zhihu.com/zvideo/1542577108190068737?page=ogv
-[18]: https://segmentfault.com/a/1190000043208486
-[19]: https://juejin.cn/post/6844903750155419655
+Hey, my new friends.我是bs0bj(aka.CanYellPea), 目前是一名致力于实现FIRE（经济独立，提前退休）运动的开发人员，同时也是一名匿名网络的政治活动者。
+在我看来，世界不仅只有唯一的选择，在初中那年诊断为抑郁症 & 双向情感障碍，我感受到被社会期望束缚的绝望。我花了很长时间在阳台上阅读，并在家中完成了高中的学业。然而，我考入大学后，大学里面没有学术精神，教育升学机构给懵懂无知的学生们灌输学历的重要性，这一切都在营销他们的升学考证一站式培训机构的课程。官僚为勾结势力，将学生的吃饭洗澡，登记上课的软件开发工程外包。(10年前的学生上课可不需要下载9个软件)
+公共教育？难道大学和其他学术机构不是改变命运的地方吗？不是为人们提供了良好的自我教育机会吗？远非如此。学校比任何其他机构都更像是兵营，人的思想在这里受到训练和操纵，以便服从于各种社会和精神幻象，从而使离开校园的人们能够帮助继续延续这种剥削和压迫的制度。
+自觉离开看起来轻松被安排的生活后，我深耕于区块链、数字货币和ETF市场，通过精密的分析和投资策略，实现了被动收入养活自己的目标。这一过程不仅让我实现了财务自由，最受益的是阅读不同的书籍，保持个人思想的自我教育(主动学习)让我深刻地理解了金融市场的运作规律。在这一领域，我不断学习、探索，并尝试将自动化技术与投资相结合，始终在努力为海外投资去中间化寻找更多机会和可能性。
+市场分析交易员是一个我深耕的领域，任职为网络游击队成员是我的主业。潜伏在不同国家，为开源社区维护着7个平台的代理服务器。在DeepWeb政治宣传方面，我创作了一系列作品，如《政敌是“同意”》、《悲伤的尽头是爱》、《工作杂谈》，《“愿意”与我一起思考嘛》，《荒诞世界》等，致力于通过技术手段传递信息和观点。
+如果世界末日来临，我也依然热爱生活。
+我相信爱是颠覆性的，它对我们现代生活的既定秩序构成了威胁。工作日生产力的枯燥仪式和社会化的仪式对一个身处爱中的人来说将不再有任何意义，因为有比单纯的惰性和对传统遵从更重要的力量在引导着他。依靠冷漠或不安全感来销售维持经济运行的产品的营销策略，对他没有任何影响。为被动消费而设计的娱乐，取决于观众的疲惫或愤世嫉俗，他不会再对此感兴趣。
+我和我的好兄弟HUSTAR是出没于EXPLORE NIGHT活动的派对DJ，并物理出没于各大城市的街头，abs & system，为人们带来感官上的体验。真正重要的不是穿着权威象征的服饰，而是你我都有一颗脆弱敏感的内心。
+在网络游击队任职期间，有加入CTF红队参与调试开发Medusa平台。喜欢在业余时间编写用于优化冲浪体验，和操作系统便捷的Python脚本。努力在计算机领域自我磨练，热衷于推崇信息技术开源免费，教育资源共享，打破信息茧房。
+我对传统教育充满质疑，我认为如果人想要学习，带着脑子就行。积极阅读，积极交流，积极实践，可以学会大部分领域的学科。信息的封锁，媒体被权威机关掌握，使得知识被教育机构垄断。我将会把我的一生献身于教育资源免费，技术开源公开。
