@@ -4,8 +4,8 @@ SEOTitle: CanYellPea | bs0bj Blog
 header-img: img/plane_00.jpg
 email: ln0wlanmon@proton.me
 description: "Cool blog | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://huangxuan.me" # your host, for absolute URL
+keyword: "krona0, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+url: "#" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: 0
 
 # Netease settings
 netease_comment: false
@@ -91,6 +91,7 @@ page-mathjax: false
 # Friends
 friends:
   [
+    { title: "Hux Blog",href: "http://huangxuan.me"},
     { title: "乱序（Midare）", href: "http://mida.re/" },
     { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
     { title: "Kun Qian", href: "http://kunq.me" },
