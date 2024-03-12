@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "谷歌语法速查"
+title:      "Cyber-guerrilla | 互联网个人主权"
 subtitle:   " \"成为合格的冲浪选手\""
 date:       2024-03-12 03:07:45
 author:     "bs0bj"
@@ -69,8 +69,6 @@ tags:
 - 例如："tallest building" 
 - 字词的顺序也必须匹配，即 `"tallest building"`  ≠ `"building tallest"`
 
-<br/>
-
 #### 指定文件类型
 
 - 例如：年终总结 filetype:ppt、特斯拉 研究报告 filetype: pdf
@@ -85,8 +83,6 @@ tags:
   - rtf
   - swf
 
-<br/>
-
 ### 运算符
 
 |符号|功能|
@@ -97,13 +93,9 @@ tags:
 |*|通配符，可代表多个字母|
 |""|精确查询|
 
-<br/>
-
 #### 用英文半角括号 `( )`  改变优先级
 
 - 例子: 电报(教程 OR 指南)
-
-<br/>
 
 #### 组合搜索(或)
 
@@ -111,21 +103,15 @@ tags:
 - `OR` 可用 `｜` (在 `Enter`  键上方) 替代
 - 例如: 海贼王 OR One Piece
 
-<br/>
-
 #### 从搜索结果中排除特定字词
 
 - 在你要排除的字词前加上 `-`
 - 我想了解水果中的「苹果」：苹果 -手机 -iPhone（`-`后面没有空格）
 
-<br/>
-
 #### 搜索统配符或未知字词
 
 - 在字词或短语中放置占位符 `*`
 - 例如: 最*的电影
-
-<br/>
 
 ### 黑魔法
 
@@ -145,9 +131,7 @@ tags:
 |搜索mdb文件|intext: to parent directory + intext:mdb|
 |搜索网站的公共FTP用户|site:xxx.com intext:ftp://*:*|
 
-<br/>
-
-#### 知识获取媒介
+### 知识获取媒介
 
 - 网页
   - [Google](https://www.google.com/)
@@ -169,20 +153,12 @@ tags:
 - 视频
   - [Bilibili](https://www.bilibili.com/)
   - [Youtube ](https://www.youtube.com/)
-    > Google: XXX行业/岗位必逛网站
-    > 
-    > Google: best sites for XXX
 
-<br/>
 
 ## 文献
 
-[Google hacking](https://cxaqhq.github.io/2019/10/07/google-hack-%E8%AF%AD%E6%B3%95/)
-
-[庭说](https://tingtalk.me/search-tips/)
-
-[搜索笔记](https://github.com/JiajuZou/Advanced_Tech/blob/main/Search_Notes.md)
-
-[谷歌SEO](https://www.cooltechdoll.com/google-search-commands/)
-
-[你从未用过的微信「搜一搜」，其实可以很实用](https://sspai.com/post/68058)
+- [Google hacking](https://cxaqhq.github.io/2019/10/07/google-hack-%E8%AF%AD%E6%B3%95/)
+- [庭说](https://tingtalk.me/search-tips/)
+- [搜索笔记](https://github.com/JiajuZou/Advanced_Tech/blob/main/Search_Notes.md)
+- [谷歌SEO](https://www.cooltechdoll.com/google-search-commands/)
+- [你从未用过的微信「搜一搜」，其实可以很实用](https://sspai.com/post/68058)
