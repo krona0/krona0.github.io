@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "谷歌语法速查"
+title:      "Cyber-guerrilla | 互联网个人主权"
 subtitle:   " \"成为合格的冲浪选手\""
 date:       2024-03-12 03:07:45
 author:     "bs0bj"
