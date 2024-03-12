@@ -157,12 +157,8 @@ tags:
 
 ## 文献
 
-[Google hacking](https://cxaqhq.github.io/2019/10/07/google-hack-%E8%AF%AD%E6%B3%95/)
-
-[庭说](https://tingtalk.me/search-tips/)
-
-[搜索笔记](https://github.com/JiajuZou/Advanced_Tech/blob/main/Search_Notes.md)
-
-[谷歌SEO](https://www.cooltechdoll.com/google-search-commands/)
-
-[你从未用过的微信「搜一搜」，其实可以很实用](https://sspai.com/post/68058)
+- [Google hacking](https://cxaqhq.github.io/2019/10/07/google-hack-%E8%AF%AD%E6%B3%95/)
+- [庭说](https://tingtalk.me/search-tips/)
+- [搜索笔记](https://github.com/JiajuZou/Advanced_Tech/blob/main/Search_Notes.md)
+- [谷歌SEO](https://www.cooltechdoll.com/google-search-commands/)
+- [你从未用过的微信「搜一搜」，其实可以很实用](https://sspai.com/post/68058)
