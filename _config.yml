@@ -74,7 +74,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "觉者由心生律，修者以律制心 <br> React Team @ Meta"
+sidebar-about-description: "觉者由心生律，修者以律制心 <br> Contact me: ln0wlanmon@proton.me"
 sidebar-avatar: /img/my_cup.jpg #https://github.com/Huxpro.png use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
