@@ -161,8 +161,8 @@ tags:
 参考
 --
 
-1.google hack 语法 - BADBOY Blog [https://cxaqhq.github.io/](https://cxaqhq.github.io/2019/10/07/google-hack-%E8%AF%AD%E6%B3%95/)
-2.想要更高效地找到信息，你需要掌握这些搜索技巧  - 庭说 [https://tingtalk.me/search-tips/](https://tingtalk.me/search-tips/)
-3.最详细的GOOGLE搜索指令大全-善用谷歌搜索引擎，办公效率翻倍 - 黑科技娃娃 Blog [https://www.cooltechdoll.com/google-search-commands/](https://www.cooltechdoll.com/google-search-commands/)
-4.你从未用过的微信「搜一搜」，其实可以很实用 - 少数派 [https://sspai.com/post/68058](https://sspai.com/post/68058)
+1. google hack 语法 - BADBOY Blog [https://cxaqhq.github.io/](https://cxaqhq.github.io/2019/10/07/google-hack-%E8%AF%AD%E6%B3%95/)
+2. 想要更高效地找到信息，你需要掌握这些搜索技巧  - 庭说 [https://tingtalk.me/search-tips/](https://tingtalk.me/search-tips/)
+3. 最详细的GOOGLE搜索指令大全-善用谷歌搜索引擎，办公效率翻倍 - 黑科技娃娃 Blog [https://www.cooltechdoll.com/google-search-commands/](https://www.cooltechdoll.com/google-search-commands/)
+4. 你从未用过的微信「搜一搜」，其实可以很实用 - 少数派 [https://sspai.com/post/68058](https://sspai.com/post/68058)
 
