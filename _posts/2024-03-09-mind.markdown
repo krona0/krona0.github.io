@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "CanYellPea"
-subtitle:   " \"自由的漫游\""
+title:      "自由的漫游"
+subtitle:   " \"你看这孩子和谁都处不来，不在我身边怎么行呢？\""
 date:       2024-03-09 20:18:09
 author:     "bs0bj"
 header-img: "img/sf_dock02.jpg"
