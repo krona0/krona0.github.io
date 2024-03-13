@@ -48,7 +48,7 @@ tags:
 访问 [Google高级搜索](https://www.google.com/advanced_search) 或者借助 [Funnel Search](https://chromewebstore.google.com/detail/funnel-search/moncnfejkabmlhblomihhdoifkgpgkhh?pli=1) 这个浏览器插件。
 
 ![](https://krona0.github.io/img/in-post/post-search-google/00.png)
-<img src="https://krona0.github.io/img/in-post/post-search-google/00.png" width="200" height="200" />
+<img src="https://krona0.github.io/img/in-post/post-search-google/00.png" width="500" height="200" />
 
 ### 搜索函数
 
