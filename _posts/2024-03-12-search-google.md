@@ -123,7 +123,7 @@ tags:
 |SQL注入页面|site:tw inurl:?id=1...10000 filetype:php|
 |排除子域名|site:baidu.com -site: video.baidu.com|
 |搜索指定网站子域名|site:xxx.com|
-|后台登入界面|site:xx.com inurl:login|admin|manage|member|admin_login|login_admin|system|login|user|
+|后台登入界面|site:xxx.com inurl:login/|admin/|manage/|member/|admin_login/|login_admin/|system/|login/|user|
 |目录遍历|intext:"index of"|
 |用户名和密码文件|filetype:txt intext:username and password|
 |指定端口网站|inurl:8443 -intext:8443|
