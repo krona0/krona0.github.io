@@ -4,7 +4,7 @@ title:      "journal | 日志"
 subtitle:   " \"I once was lost but now am found,Was blind but now I see. \""
 date:       2024-03-19 23:06:45
 author:     "bs0bj"
-header-img: "img/sf_dock04.jpg"
+header-img: "img/sf_dock01.jpg"
 catalog: true
 tags:
     - Meta
