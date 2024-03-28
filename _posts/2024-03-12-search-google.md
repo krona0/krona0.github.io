@@ -33,7 +33,8 @@ tags:
 
 ## 搜索引擎
 
-> 搜索效率: Google > 公众号搜索 > 短视频 > 国内搜索引擎
+> 搜索效率优先级: 
+> Google > 公众号搜索 > 短视频 > 国内搜索引擎
 
 #### NCR
 
@@ -41,16 +42,32 @@ tags:
 
 ## 谷歌搜索语法:
 
+谷歌语法对我最有启发的一个用法是对一个行业的快速入门。在我第一次尝试写python爬虫程序，和方便linux电脑自动化的bash代码，Windows的powershell时都是谷歌教会我的。
+
+> **小汪开发博客时尝试的谷歌搜索** 
+> 前端程序员必逛网站/best sites for 
+> best sites for Front-end web development
+>
 > Google: XXX行业/岗位必逛网站
 > 
 > Google: best sites for XXX
 
-访问 [Google高级搜索](https://www.google.com/advanced_search) 或者借助 [Funnel Search](https://chromewebstore.google.com/detail/funnel-search/moncnfejkabmlhblomihhdoifkgpgkhh?pli=1) 这个浏览器插件。
+使用中文Google搜索下的信息量十分局限，具备 `中/En` 搜索是基本的素养。
+一些制度教育下开放的英语课程和考试很难让毕业生具有英文rws能力`read\write\speak`。我也相信这难不倒今天想要成为 Cyber-guerrilla 的你。
 
-**谷歌语法使用案例:**
-![](https://krona0.github.io/img/in-post/post-search-google/00.png)
+> 可以试试各大平台的翻译软件，活用复制粘贴就能解决。
+> 谷歌/微软/百度/有道/欧路
+> 
+> #在进阶版本中的插件中我们会科普加入脚本自动化翻译，使用脚本实现功能。
 
 ### 搜索函数
+
+#搜索函数不是必要的，想要快速实践可以访问 [Google高级搜索](https://www.google.com/advanced_search) 或者借助 [Funnel Search](https://chromewebstore.google.com/detail/funnel-search/moncnfejkabmlhblomihhdoifkgpgkhh?pli=1) 这个浏览器插件。
+
+如果你是深度用户我会建议你阅读此个章节，当然 Google 高级版也会为深度用户提供更清晰的面板。按照你的个人喜好选择吧。
+
+**谷歌语法在社工领域中的使用案例:**
+![](https://krona0.github.io/img/in-post/post-search-google/00.png)
 
 |功能|语法|示例|
 |:--|:--:|:--:|
