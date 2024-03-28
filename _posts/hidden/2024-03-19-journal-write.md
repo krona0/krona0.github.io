@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     
 title:      "journal | 日志"
 subtitle:   " \"I once was lost but now am found,Was blind but now I see. \""
 date:       2024-03-19 23:06:45
