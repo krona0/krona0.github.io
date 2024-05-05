@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "AI时代下对艺术从业者是挑战还是机遇 ｜ 朋友圈搬运"
+title:      "AI时代下对艺术从业者是挑战还是机遇 ｜ Wechat Moment"
 subtitle:   " \"进步应该是为我们服务，而非把我们变的畜生不如\""
 date:       2024-05-05 01:57:32
 author:     "bs0bj"
