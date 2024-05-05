@@ -4,7 +4,7 @@ title:      "chatgpt下ai是进步还是退步 ｜ 朋友圈搬运"
 subtitle:   " \"进步应该是为我们服务，而非把我们变的畜生不如\""
 date:       2024-05-05 01:57:32
 author:     "bs0bj"
-header-img: "img/stop-war.jpg"
+header-img: "img/ai-hand.jpg"
 catalog: true
 tags:
     - Social
