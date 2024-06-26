@@ -4,7 +4,7 @@ title:      "Cyber-guerrilla | 互联世界"
 subtitle:   " \"Clash使用教程，打破信息束缚\""
 date:       2024-06-26 15:33:23
 author:     "bs0bj"
-header-img: "img/sf_dock.jpg"
+header-img: "img/in-post/post-clash-help/clash.png"
 catalog: true
 tags:
     - Meta
@@ -19,12 +19,12 @@ tags:
 ## 代理工具🔧
 在使用代理中我们有不同的工具可以选择，我喜欢把它形容成不同的流派。每种流派都有独属于他的个性，八仙过海各显神通。在最开始我们先来认识最主要的几位“神仙”。
 
->Clash流(X or for windows/linux/android) 
-> Shadowsocks流(R,D)
-> V2ray流(A,N)
-> SocksShell
-> Trojan
-> 在IOS系统中还有(Shadowrocket)。
+> Clash流(X or for windows/linux/android) <br/>
+> Shadowsocks流(R,D) <br/>
+> V2ray流(A,N) <br/>
+> SocksShell <br/>
+> Trojan <br/>
+> 在IOS系统中还有(Shadowrocket)。 <br/>
 
 在延时中我们使用 Clash 流派中最易使用的Clash for windows。学习 for windows 版本的图形化界面对 Windows/Ubuntu/Mac 系统上使用 Clash 会有很大的帮助。
 
