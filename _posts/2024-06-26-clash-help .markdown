@@ -28,7 +28,7 @@ tags:
 
 在延时中我们使用 Clash 流派中最易使用的Clash for windows。学习 for windows 版本的图形化界面对 Windows/Ubuntu/Mac 系统上使用 Clash 会有很大的帮助。
 
-> 这里的 Clash for Windows 并非是仅仅在 windows 系统上才能使用 。这里的windows更像是图形化界面的意思，同理在 linux 上也能安装 Clash for Windows。
+> 这里的 Clash for Windows 并非是仅仅在 windows 系统上才能使用 。这里的windows更像是图形化界面的意思，同理在 linux 上也能安装 Clash for Windows。<br/>
 > 还有一个大陆网民的民间说法是，Clash for windows 的缩写是 {GFW}。
 
 ## Clash介绍😼
@@ -103,10 +103,10 @@ intel CPU的Windows电脑
 付费节点是一个好选择，支付一笔每个月 10-20¥ 不等的费用就可以畅通无阻。省下了很多不必要的维护时间，而且订阅十分方便，随着产业链的成熟许多节点都十分的稳定。目前我使用过最便宜的是一个月8¥ ，有心者可以探索到更多惊喜，github上还有不少的1¥机场✈️。
 
 **免费节点分享(Updating)**
-[自行搜索吧](www.google.com)
+<br/>[自行搜索吧](www.google.com)
 
 **付费节点分享(Updating)**
-[橘子云](https://jzy66222.xyz/)
+<br/>[橘子云](https://jzy66222.xyz/)
 [轻云](https://qingyunjia.cc)
 ## 点火! 启动！🚀
 
