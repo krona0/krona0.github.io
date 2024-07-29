@@ -60,7 +60,7 @@ intel CPU的Windows电脑
 #### 下载
 按CPU的类型获取 Clash for windwos [下载链接](https://downloads.clash.wiki/clash_for_windows_pkg/)
 #### 认识界面
-[photo]
+![p](https://krona0.github.io/img/in-post/post-search-google)
 
 - General(通用设置)
 	- Port、Socks Port；分别为HTTP、SOCKS代理端口，点击终端图案可以打开一个配置了代理的命令行窗口，点击端口数字可以复制该命令；
@@ -111,23 +111,23 @@ intel CPU的Windows电脑
 ## 点火! 启动！🚀
 
 ### 添加配置文件
-[photo]
+![p](https://krona0.github.io/img/in-post/post-search-google)
 点击 Profiles (配置管理)
 导入入 Url 链接🔗
 
 
 ### 启用代理
-[photo]
+![p](https://krona0.github.io/img/in-post/post-search-google)
 打开 System Proxy (启用系统代理)
 
 ### 设置开机自启
-[photo]
+![p](https://krona0.github.io/img/in-post/post-search-google)
 打开 Start with Windows (开机自启动)
 
 ### 更新配置文件
 Clash 的配置文件为 YAML，编写配置文件YAML会在进阶版本中详细赘述。
 
-[photo]
+![p](https://krona0.github.io/img/in-post/post-search-google)
 
 ##### 切换代理(Proxies)模式
 Clash 的三种工作模式: 
