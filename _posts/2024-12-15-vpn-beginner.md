@@ -93,9 +93,9 @@ dum@sxxw$ ping www.xxxx.com
 
 #### 了解更多
 工具学习文档
-[Clash中文界面](https://clashforwindows.org)
-[Clash知识库](https://clash.wiki)
-[Clash高级使用教程](https://docs.reiz.link/附录/clash-advanced-usage/)
+- [Clash中文界面](https://clashforwindows.org)
+- [Clash知识库](https://clash.wiki)
+- [Clash高级使用教程](https://docs.reiz.link/附录/clash-advanced-usage/)
 
 实战应用博客
-[ Steam 如何绕过 Clash 全局代理](https://cornradio.github.io/hugo/posts/%E8%AE%A9steam%E7%BB%95%E8%BF%87clash%E7%B3%BB%E7%BB%9F%E4%BB%A3%E7%90%86/)
+- [ Steam 如何绕过 Clash 全局代理](https://cornradio.github.io/hugo/posts/%E8%AE%A9steam%E7%BB%95%E8%BF%87clash%E7%B3%BB%E7%BB%9F%E4%BB%A3%E7%90%86/)
