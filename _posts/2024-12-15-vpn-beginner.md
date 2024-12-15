@@ -26,7 +26,7 @@ tags:
 > ⚠︎ 为避免此源头被污染，社区有对此文件做备份工作。
 
 <!--d_clash.png-->
-![](../img/in-post/post-vpn-beginner/d_clash.png)
+![](https://krona0.github.io/img/in-post/post-vpn-beginner/d_clash.png)
 
 
 #### 2.2 注册购买机场链接
@@ -42,20 +42,20 @@ Clash是一款网络代理工具，支持多种节点服务器的协议。只需
 
 打开[轻云](https://cf.loveqyun.cyou/#/register?code=YUJ1x7YZ)在注册页面邮箱注册即可，进入后可以阅读官方文档`查看教程`选择`clash for windows`中的教程已经很详细了。
 <!--q_yun.png-->
-![](../img/in-post/post-vpn-beginner/q_yun.png)
+![](https://krona0.github.io/img/in-post/post-vpn-beginner/q_yun.png)
 
 ### 3.教学内容
 #### 3.1 导入配置文件
 ^4b7891
 <!--profiles.png-->
-![](../img/in-post/post-vpn-beginner/profiles.png)
+![](https://krona0.github.io/img/in-post/post-vpn-beginner/profiles.png)
 在`profiles`词条中导入配置文件。可以直接从URL链接中自动导入，也可以用`import`从电脑中选取文件。
 
 大多数机场已有成熟教程，并与其节点兼容，这里不再多赘述。遇到问题可通过 GitHub issue 提问，我会在一周内回复，或直接联系我的微信。
 
 #### 3.2 讲解各代理模式各功能
 <!--proxies.png-->
-![](../img/in-post/post-vpn-beginner/proxies.png)
+![](https://krona0.github.io/img/in-post/post-vpn-beginner/proxies.png)
 
 在左边的词条中的`Proxies`中可以选择模式。最主要的有`Global`, `Rule`, `Direct`这三种模式，新版新增加里`Script`模块。
 
@@ -67,7 +67,7 @@ Clash是一款网络代理工具，支持多种节点服务器的协议。只需
 #### 3.3 开启关闭代理
 
 <!--general.png-->
-![](../img/in-post/post-vpn-beginner/general.png)
+![](https://krona0.github.io/img/in-post/post-vpn-beginner/general.png)
 这次我们会讲到词条`General`:
 - `System Proxy`是**最主要的选项**，我们在`Proxies`中选择了我们模式，之后也要打开`System Proxy`选项才能开始代理。
 - `Mixin`中译为混合代理, 就是**指在可以直连可以的情况下使用直连，出错使用代理连接**，机场一般都会提供给你好他们的写好的配置，也可以自己写代码配置。
