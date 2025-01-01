@@ -4,7 +4,7 @@ title:      "利用BTC.D优化投资组合 ｜ 持续收益的交易模型"
 subtitle:   " \"掌握市场节奏，打造稳健盈利策略\""
 date:       2025-01-01 22:37:23
 author:     "bs0bj"
-header-img: "img/post-bg-miui6.jpg"
+header-img: "img/btc-background.jpg"
 catalog: true
 tags:
     - Cyber Technology
