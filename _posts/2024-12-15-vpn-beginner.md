@@ -12,6 +12,20 @@ tags:
 
 # 科学上网导航
 
+- 1. 引言
+- 2. 准备工作
+	- 2.1 下载安装软件
+	- 2.2 注册购买机场
+		- 2.2.1 什么是机场？
+		- 2.2.2 注册使用
+- 3. 教学内容
+	- 3.1 导入配置文件
+	- 3.2 讲解各代理模式和功能
+	- 3.3 开启关闭代理
+	- 3.4 验证是否成功
+- 4. 总结
+- 附录
+
 #### **教程简介**
 由于身边许多朋友在浏览互联网时因连接方式的限制无法访问部分网络服务，本教程旨在通过调整连接方式和配置`Proxy`代理的实用方法来解决这些问题。
 
@@ -29,7 +43,7 @@ tags:
 ![](https://krona0.github.io/img/in-post/post-vpn-beginner/d_clash.png)
 
 
-#### 2.2 注册购买机场链接
+#### 2.2 注册购买机场
 ##### 2.2.1 什么是机场？
 机场是提供科学上网服务的网络供应商，其主要服务项目是提供Shadowsocks、V2ray、Trojan等翻墙协议的节点服务器。
 > ⚠︎ 搭建机场技术难度不高，很多自建机场容易圈钱跑路，建议选择业内口碑好的平台。
@@ -53,7 +67,7 @@ Clash是一款网络代理工具，支持多种节点服务器的协议。只需
 
 大多数机场已有成熟教程，并与其节点兼容，这里不再多赘述。遇到问题可通过 GitHub issue 提问，我会在一周内回复，或直接联系我的微信。
 
-#### 3.2 讲解各代理模式各功能
+#### 3.2 讲解各代理模式和功能
 <!--proxies.png-->
 ![](https://krona0.github.io/img/in-post/post-vpn-beginner/proxies.png)
 
@@ -64,6 +78,7 @@ Clash是一款网络代理工具，支持多种节点服务器的协议。只需
 - **Direct** 模式相反，相当于水直接流出，不经过滤水器，所有流量直连网络。
 - **Rule** 模式则像多个水龙头分流：一些水流直接排出（不过滤），另一些则通过滤水器（代理）。这里的“水流出口”可以理解为目标网站的域名。
 - **Script**模式翻译过来就是脚本，简单点理解就像是自己编程自己自定义。
+
 #### 3.3 开启关闭代理
 
 <!--general.png-->
@@ -91,7 +106,7 @@ dum@sxxw$ ping www.xxxx.com
 从简来说，只要下载完软件，通过机场下载配置文件，在`Profiles`词条中添加配置文件。然后在`Proxies`中选取`Global`全局代理，并选取一个代理服务器(比如 香港_01)。最后我们打开`System Proxy`从浏览器中测试是否可以使用谷歌。最后可以按照喜好配置选择`Mixin`, `TUN Mode`
 > ⚠︎ 浏览器的选择，最好用Edge，Chrome，Firefox这些。尽量不要用360，搜狗，百度这些。大陆浏览器容易屏蔽你的访问。
 
-#### 了解更多
+### 附录
 工具学习文档
 - [Clash中文界面](https://clashforwindows.org)
 - [Clash知识库](https://clash.wiki)
@@ -99,3 +114,19 @@ dum@sxxw$ ping www.xxxx.com
 
 实战应用博客
 - [ Steam 如何绕过 Clash 全局代理](https://cornradio.github.io/hugo/posts/%E8%AE%A9steam%E7%BB%95%E8%BF%87clash%E7%B3%BB%E7%BB%9F%E4%BB%A3%E7%90%86/)
+
+#### 常见问题解答(FAQ)
+
+欢迎至信到我的邮箱，或在 github 下留言，我会每周检查一次，回复大家的问题。
+
+#### Support and Donate
+
+如果您觉得这篇文章对您有帮助，欢迎通过以下地址打赏支持我继续创作！
+- **Bitcoin (BTC)：** 
+>bc1pvx02q68mgk2cheszukd0ska4tchy99adqywue8u6wyhcm4xghtpqpz4d8y
+- **Ethereum (ETH)：** 
+> 0xa270fac76b8d66ad238fd3eb4ebe1cd4f06ce13a
+- **Solana (SOL)：** 
+> 3QRAqNFv7uv6g1BCjZg75y423y8ZEdM37gS3NXk9fDcH
+- **Tether (USDT - TRC20)：** 
+> TLJs9n2zzqxBy7cJ8PHBKbw7tVD8ynP8Ut
